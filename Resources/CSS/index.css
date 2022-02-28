@@ -1,10 +1,39 @@
-header {
-    background-image: url('/Resources/images/pattern.webp');
+* {
+    font-family: Helvetica;
 }
-h1 {
+
+.banner {
+    background-image: url("./Resources/images/pattern.png");
     font-family: Helvetica;
     font-size: 100px;
     font-weight: bold;
     color: khaki;
     text-align: center;
+}
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.brushes {
+    background-color: mediumspringgreen;
+}
+
+.frames {
+    background-color: lightcoral;
+}
+
+.paint {
+    background-color: skyblue;
+}
+.prices {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
 }
