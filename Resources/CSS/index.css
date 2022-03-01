@@ -3,7 +3,7 @@
 }
 
 .banner {
-    background-image: url("./Resources/images/pattern.png");
+    background-image: url("../images/pattern.png");
     font-family: Helvetica;
     font-size: 100px;
     font-weight: bold;
